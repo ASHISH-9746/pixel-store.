@@ -1,0 +1,2 @@
+# pixel-store.
+store
